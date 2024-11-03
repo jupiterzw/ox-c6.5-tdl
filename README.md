@@ -1,1 +1,4 @@
-# ox-c6.5-tdl
+# C6.5 Theories of Deep Learning 2024/25
+Lecturer: [Jared Tanner](https://www.maths.ox.ac.uk/people/jared.tanner)
+
+This repo contains my notes for the Oxford Mathematics Institute Part C course C6.5: Theories of Deep Learning. After completing the course, one should be familiar with the variety of architectures for deep nets, including the scattering transform and ingredients such as types of nonlinear transforms, pooling, convolutional structure, and how nets are trained. The course focuses on a variety of theoretical perspectives on why deep networks perform as observed, with examples such as: dictionary learning and transferability of early layers, energy decay with depth, Lipschitz continuity of the net, how depth overcomes the curse of dimensionality, constructing adversarial examples, geometry of nets viewed through random matrix theory, and learning of invariance.
